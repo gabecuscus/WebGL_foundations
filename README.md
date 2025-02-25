@@ -1,2 +1,2 @@
-# WebGL_foundations
- just making a simple WebGL_Thing
+# check them out here
+ https://gabecuscus.github.io/WebGL_foundations/
